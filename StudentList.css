@@ -1,0 +1,16 @@
+/* StudentList.css */
+.student-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .student-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .student-checkbox {
+    margin-left: auto;
+  }
+  
